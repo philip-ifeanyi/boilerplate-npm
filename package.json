@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Philip Ifeanyi",
 	"description": "Learning npm package with Node!",
+	"version": "1.2.0",
 	"keywords": ["freecodecamp", "npm", "learn", "package", "json"],
 	"license": "MIT",
 	"dependencies": {
